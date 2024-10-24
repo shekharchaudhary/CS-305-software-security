@@ -1,0 +1,7 @@
+<suppress>
+   <notes><![CDATA[
+   file name: bcprov-jdk15on-1.46.jar
+   ]]></notes>
+   <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov-jdk15on@.*$</packageUrl>
+   <cve>CVE-2016-1000338</cve>
+</suppress>
